@@ -1,0 +1,12 @@
+# Notebook requirements (Questions 1-4)
+pandas
+numpy<2
+matplotlib
+nltk
+spacy
+scikit-learn==1.3.0
+joblib
+networkx
+wordcloud
+gensim
+pyLDAvis
