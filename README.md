@@ -1,8 +1,8 @@
 # ITNPA4-34 – Natural Language Processing with Python: Project 1
 
-**Student:** Hamzah Suleman · **Student number:** EDUV3475589 · **Campus:** <!-- add -->
+**Student:** Hamzah Suleman · **Student number:** EDUV3475589 · **Campus:** Eduvos Midrand Campus
 
-<!-- Add a short overview of the project in your own words here. -->
+
 
 ## Repository structure
 
@@ -37,7 +37,7 @@ ITNPA-Researchly-EDUV3475589/
 | 3 | Corpus dataframe, denoising, summarisation | [`Q3_Q4_Topic_Modelling.ipynb`](notebooks/Q3_Q4_Topic_Modelling.ipynb) | [`docs/Q3_Q4_Topic_Modelling.html`](docs/Q3_Q4_Topic_Modelling.html) |
 | 4 | LDA topic modelling, pyLDAvis intertopic map | [`Q3_Q4_Topic_Modelling.ipynb`](notebooks/Q3_Q4_Topic_Modelling.ipynb) | [`docs/Q3_Q4_Topic_Modelling.html`](docs/Q3_Q4_Topic_Modelling.html) |
 
-<!-- Optionally add your own short summary of findings per question here. -->
+
 
 ## Running the notebooks
 
